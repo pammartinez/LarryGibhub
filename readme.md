@@ -3,4 +3,4 @@
 Esta saga de libros cuenta la historia de un hacker excepcional
 
 
-Alberto FAns de Hary Poter
+Alberto FAns de git y de larry poter.
